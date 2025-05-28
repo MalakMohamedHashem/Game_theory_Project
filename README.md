@@ -36,7 +36,7 @@ Game_Theory_Project-main/
 2. Clone or download the project.
 3. Run the main script or any individual game:
 
-```bash
+`bash
 python main.py
 
 ## 🛠️ Technologies Used
